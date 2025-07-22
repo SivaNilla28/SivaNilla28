@@ -2,7 +2,7 @@
 
 Welcome to my GitHub space! I'm an **aspiring Data Analyst** who loves working with **data and design**. I’m currently diving into tools like **SQL, Power BI, Excel, and Python** to analyze, visualize, and solve real-world business problems through data.
 
-🎨 On the creative side, I also work as a **freelance YouTube thumbnail designer**, having generated **5.5L+ views** through engaging visuals that tell stories in a single frame.
+🎨 On the creative side, I also working as a **freelance YouTube thumbnail designer**, having generated **5.5L+ views** through engaging visuals that tell stories in a single frame.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva%20Nilla-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sivanilla28)  
 [![Gmail](https://img.shields.io/badge/Gmail-nillasiva526@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:nillasiva526@gmail.com)  
