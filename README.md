@@ -59,4 +59,4 @@ Welcome to my GitHub space! I'm an **aspiring Data Analyst** who loves working w
 ---
 
 Thanks for visiting!
-Let’s turn data into decisions and design into impact — one insight and one visual at a time 💡🎨**
+Let’s turn data into decisions and design into impact — one insight and one visual at a time💡
