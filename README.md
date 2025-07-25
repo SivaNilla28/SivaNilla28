@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Siva Naga phanindra Kumar Nilla!
 
-Welcome to my GitHub space! I'm an **aspiring Data Analyst** who loves working with **data and design**. I’m currently diving into tools like **SQL, Power BI, Excel, and Python** to analyze, visualize, and solve real-world business problems through data.
+Welcome to my GitHub space! I'm an **aspiring Data Analyst** who loves working with **data and design**. I’m currently diving into tools like **Python, SQL, Power BI and Excel** to analyze, visualize, and solve real-world business problems through data.
 
 🎨 On the creative side, I also working as a **freelance YouTube thumbnail designer**, having generated **5.5L+ views** through engaging visuals that tell stories in a single frame.
 
